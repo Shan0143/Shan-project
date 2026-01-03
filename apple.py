@@ -1,5 +1,5 @@
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+a = int(input("Enter first shan no: "))
+b = int(input("Enter second shan no: "))
 
 op = input("Enter operation (+, -, *, /): ")
 
